@@ -16,5 +16,8 @@ public class mainClass {
          System.out.println("******************************");
          System.out.println(s1);
          System.out.println(s2);
+
+         System.out.println("******************************");
+         System.out.println("The grade of  " + s3.getName() + "   is  " + s3.grade());
 }
 }
